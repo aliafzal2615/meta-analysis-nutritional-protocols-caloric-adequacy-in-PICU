@@ -37,6 +37,6 @@ This meta-analysis stands out by addressing common pitfalls in clinical evidence
 
 ---
 
-[![DOI](https://zenodo.org/badge/1206067592.svg)](https://doi.org/10.5281/zenodo.19486060)
+[![DOI](https://zenodo.org/badge/1206067592.svg)](https://doi.org/10.5281/zenodo.19486060) "https://doi.org/10.5281/zenodo.19486060"
 
 ---
