@@ -36,3 +36,7 @@ This meta-analysis stands out by addressing common pitfalls in clinical evidence
 * **Addressing Bias:** Specific sensitivity analyses (SA7) filter for "secular trend bias" by comparing concurrent controls against historical ones, ensuring the measured benefits are truly attributable to the nutritional protocols.
 
 ---
+
+[![DOI](https://zenodo.org/badge/1206067592.svg)](https://doi.org/10.5281/zenodo.19486060)
+
+---
